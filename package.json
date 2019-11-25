@@ -1,0 +1,9 @@
+{
+  "name": "hydra-day",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "js2xmlparser": "^4.0.0"
+  }
+}
